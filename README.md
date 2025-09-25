@@ -21,8 +21,7 @@ Mastermind (Java)  A console-based Mastermind game built in Java. The computer g
 
 
   ---
-  # Mastermind Demo Pics
-
+  # Mastermind Demo 
    <img width="952" height="748" alt="image" src="https://github.com/user-attachments/assets/1cfb9890-48ae-4977-9e23-cda500169adb" />
 
 
